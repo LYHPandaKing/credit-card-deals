@@ -68,11 +68,11 @@
 
 <details>
   <summary>詳細T&C</summary>
-	1. [https://www.citibank.com.hk/e-welcome/chinese/credit-cards/rewards/index.htm](https://www.citibank.com.hk/e-welcome/chinese/credit-cards/rewards/index.htm)<br>
+	1. <a target="_blank" rel="noopener noreferrer" href="https://www.citibank.com.hk/e-welcome/chinese/credit-cards/rewards/index.htm">https://www.citibank.com.hk/e-welcome/chinese/credit-cards/rewards/index.htm</a><br>
 	
-	2. [https://www1.citibank.com.hk/chinese/credit-cards/rewards-card](https://www1.citibank.com.hk/chinese/credit-cards/rewards-card)<br>
-	
-	3. [https://www.citibank.com.hk/chinese/credit-cards/pdf/rewards-card/faq.pdf](https://www.citibank.com.hk/chinese/credit-cards/pdf/rewards-card/faq.pdf)<br>
+	2. <a target="_blank" rel="noopener noreferrer" href="https://www1.citibank.com.hk/chinese/credit-cards/rewards-card">https://www1.citibank.com.hk/chinese/credit-cards/rewards-card</a><br>
+
+	3. <a target="_blank" rel="noopener noreferrer" href="https://www.citibank.com.hk/chinese/credit-cards/pdf/rewards-card/faq.pdf">https://www.citibank.com.hk/chinese/credit-cards/pdf/rewards-card/faq.pdf</a><br>
 	
 	<img src="img/tnc/citi/241118_citi_3percent_entertainment.png" width="80%"><br>
 	<img src="img/tnc/citi/241118_citi_3percent_localmobile.png" width="80%"><br>
@@ -155,23 +155,23 @@
 
 <details>
   <summary>詳細T&C</summary>
-	1. [https://www.aeon.com.hk/tc/credit-card/creditcard-wakuwaku.html](https://www.aeon.com.hk/tc/credit-card/creditcard-wakuwaku.html)<br>
-	
-	2. [https://www.aeon.com.hk/tc/pdf/credit-card/AEONCARDWAKUWAKU_RBBD_TC.pdf](https://www.aeon.com.hk/tc/pdf/credit-card/AEONCARDWAKUWAKU_RBBD_TC.pdf)<br>
+  	1. <a target="_blank" rel="noopener noreferrer" href="https://www.aeon.com.hk/tc/credit-card/creditcard-wakuwaku.html">https://www.aeon.com.hk/tc/credit-card/creditcard-wakuwaku.html</a><br>
+   
+    2. <a target="_blank" rel="noopener noreferrer" href="https://www.aeon.com.hk/tc/pdf/credit-card/AEONCARDWAKUWAKU_RBBD_TC.pdf">https://www.aeon.com.hk/tc/pdf/credit-card/AEONCARDWAKUWAKU_RBBD_TC.pdf</a><br>
 	
 	<img src="img/tnc/aeon/241118_aeon_basic.png" width="80%"><br>
 	
 	「賞」食<br>
-	3. [https://www.aeon.com.hk/tc/privilege/promotion_fnb_0324.html](https://www.aeon.com.hk/tc/privilege/promotion_fnb_0324.html)<br>
+	3. <a target="_blank" rel="noopener noreferrer" href="https://www.aeon.com.hk/tc/privilege/promotion_fnb_0324.html">https://www.aeon.com.hk/tc/privilege/promotion_fnb_0324.html</a><br>
 	
 	<img src="img/tnc/aeon/241118_aeon_3percent_food.png" width="80%"><br>
 	<img src="img/tnc/aeon/241118_aeon_3percent_food_tnc.png" width="80%"><br>
 	<img src="img/tnc/aeon/241118_aeon_3percent_food_tnc_2.png" width="80%"><br>
 
 	海外簽賬手續費無上限回贈<br>
-	4. [https://www.aeon.com.hk/tc/privilege/promotion_ftf_1124.html](https://www.aeon.com.hk/tc/privilege/promotion_ftf_1124.html)<br>
+	4. <a target="_blank" rel="noopener noreferrer" href="https://www.aeon.com.hk/tc/privilege/promotion_ftf_1124.html">https://www.aeon.com.hk/tc/privilege/promotion_ftf_1124.html</a><br>
 	
-	5. [https://www.aeon.com.hk/tc/pdf/promotion/AEON_Card_ForeignTransactionFee_Unlimited%20Cash%20Rebate_Reward%20_Calculation_Examples.pdf](https://www.aeon.com.hk/tc/pdf/promotion/AEON_Card_ForeignTransactionFee_Unlimited%20Cash%20Rebate_Reward%20_Calculation_Examples.pdf)<br>
+	5. <a target="_blank" rel="noopener noreferrer" href="https://www.aeon.com.hk/tc/pdf/promotion/AEON_Card_ForeignTransactionFee_Unlimited%20Cash%20Rebate_Reward%20_Calculation_Examples.pdf">https://www.aeon.com.hk/tc/pdf/promotion/AEON_Card_ForeignTransactionFee_Unlimited%20Cash%20Rebate_Reward%20_Calculation_Examples.pdf</a><br>
 
 	<img src="img/tnc/aeon/241118_aeon_fee.png" width="80%"><br>
 	<img src="img/tnc/aeon/241118_aeon_fee_2.png" width="80%"><br>
@@ -201,15 +201,15 @@
 
 <details>
   <summary>詳細T&C</summary>
-	1. [https://www.sc.com/hk/zh/credit-cards/smart/](https://www.sc.com/hk/zh/credit-cards/smart/)<br>
-	
-	2. [https://av.sc.com/hk/zh/content/docs/hk-promo-smart-tnc.pdf](https://av.sc.com/hk/zh/content/docs/hk-promo-smart-tnc.pdf)<br>
-	
+  	1. <a target="_blank" rel="noopener noreferrer" href="https://www.sc.com/hk/zh/credit-cards/smart/">https://www.sc.com/hk/zh/credit-cards/smart/</a><br>
+  
+	2. <a target="_blank" rel="noopener noreferrer" href="https://av.sc.com/hk/zh/content/docs/hk-promo-smart-tnc.pdf">https://av.sc.com/hk/zh/content/docs/hk-promo-smart-tnc.pdf</a><br>
+  
 	<img src="img/tnc/sc/241118_sc_5percent.png" width="80%"><br>
 	<img src="img/tnc/sc/241118_sc_5percent_tnc.png" width="80%"><br>
 	
 	迎新<br>
-	3. [https://av.sc.com/hk/content/docs/hk-cc-tncs-downloadnow.pdf](https://av.sc.com/hk/content/docs/hk-cc-tncs-downloadnow.pdf)<br>
+	3. <a target="_blank" rel="noopener noreferrer" href="https://av.sc.com/hk/content/docs/hk-cc-tncs-downloadnow.pdf">https://av.sc.com/hk/content/docs/hk-cc-tncs-downloadnow.pdf</a><br>
 	
 	<img src="img/tnc/sc/241118_sc_welcome_tnc.png" width="80%"><br>
 	<img src="img/tnc/sc/241118_sc_welcome_tnc_2.png" width="80%"><br>
