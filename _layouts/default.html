@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>信用卡日常消費優惠</title>
+    <title>{{ page.title }}</title>
 	<!-- 引用 favicon -->
     <link rel="icon" href="/assets/favicon.png" type="image/x-icon">
     
@@ -25,9 +25,12 @@
     <link rel="icon" sizes="192x192" href="/icons/icon-192x192.png">
 </head>
 <body>
-
-    <!-- 這裡是頁面內容區域 -->
-    {{ content }}
+<header>
+        <h1>{{ site.title }}</h1>
+    </header>
+    <main>
+        {{ content }}
+    </main>
 
     <!-- 放大圖片顯示模態框 -->
     <div id="myModal" class="modal">
@@ -90,6 +93,10 @@
             });
         });
 </script>
+
+    <footer>
+        <p>&copy; {{ site.time | date: "%Y-%m-%d" }}</p>
+    </footer>
 
 </body>
 </html>

@@ -1,3 +1,5 @@
+@import "{{ site.theme }}";
+
 /* 基本樣式：淺色模式 */
 body {
     background-color: #ffffff;
