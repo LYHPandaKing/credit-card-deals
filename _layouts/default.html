@@ -73,6 +73,7 @@
 
 	
 <script>
+
         // 註冊 Service Worker
         if ('serviceWorker' in navigator) {
             window.addEventListener('load', () => {
@@ -86,6 +87,8 @@
             });
         }
 
+
+		<!--
         document.querySelectorAll('img').forEach(img => {
             img.onclick = function() {
                 const modal = document.getElementById('myModal');
@@ -118,11 +121,12 @@
                 iframe.style.display = 'block';
                 iframe.src = iframeSrc;  // 設置 iframe 的 src 屬性，開始加載內容
             });
-        });
+        }); 
+		//-->
 </script>
 
     <footer>
-        <p>&copy; {{ site.time | date: "%Y-%m-%d" }}</p>
+        <p>最後更新日期 {{ site.time | date: "%Y-%m-%d %H:%M" }}</p>
     </footer>
 
 </body>
