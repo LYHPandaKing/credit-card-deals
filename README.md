@@ -4,7 +4,7 @@
 <a href="#hsbc">HSBC Visa Gold</a><br>
 <a href="#aeon">Aeon Wakuwaku</a><br>
 <a href="#sc">SC Smart</a><br>
-
+<br><br>
 <a name="mox"></a>
 ##### Mox Credit
 <img src="img/cards/mox.png" width="80%">
@@ -28,7 +28,8 @@
 
 <details>
   <summary>詳細T&C</summary>
-	1. [https://mox.com/zh/promotions/unlimitedcashback/](https://mox.com/zh/promotions/unlimitedcashback/)<br>
+	1. <a target="_blank" rel="noopener noreferrer" href="https://mox.com/zh/promotions/unlimitedcashback/">https://mox.com/zh/promotions/unlimitedcashback/</a><br>
+	
 	<img src="img/tnc/mox/241118_mox_3percent_supermarket.png" width="80%"><br>
 	<img src="img/tnc/mox/241118_mox_3percent_supermarket_2.png" width="80%"><br>
 </details>
@@ -103,7 +104,7 @@
 
 <details>
   <summary>詳細T&C</summary>
-	1. [https://www.redhotoffers.hsbc.com.hk/tc/rewards/red-hot-rewards-of-your-choice/details](https://www.redhotoffers.hsbc.com.hk/tc/rewards/red-hot-rewards-of-your-choice/details)<br>
+	1. <a target="_blank" rel="noopener noreferrer" href="https://www.redhotoffers.hsbc.com.hk/tc/rewards/red-hot-rewards-of-your-choice/details">https://www.redhotoffers.hsbc.com.hk/tc/rewards/red-hot-rewards-of-your-choice/details</a><br>
 
 	<img src="img/tnc/hsbc/241118_hsbc_redoffer.png" width="80%"><br>
 	<img src="img/tnc/hsbc/241118_hsbc_redoffer_cat.png" width="80%"><br>
