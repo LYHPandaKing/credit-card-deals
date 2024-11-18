@@ -1,4 +1,15 @@
+---
+---
+
 @import "{{ site.theme }}";
+
+
+
+div.disabled {
+    overflow-x: hidden; //horizontal
+    overflow-y: scroll; //vertical
+}
+
 
 /* 基本樣式：淺色模式 */
 body {

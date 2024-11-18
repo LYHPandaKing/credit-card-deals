@@ -4,33 +4,58 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ page.title }}</title>
+	
+	<link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+	
 	<!-- 引用 favicon -->
-    <link rel="icon" href="/assets/favicon.png" type="image/x-icon">
+	<link rel="icon" type="image/png" href="/assets/favicon/favicon-96x96.png" sizes="96x96" />
+	<link rel="icon" type="image/svg+xml" href="/assets/favicon/favicon.svg" />
+	<link rel="shortcut icon" href="/assets/favicon/favicon.ico" />
+	<link rel="apple-touch-icon" sizes="180x180" href="/assets/favicon/apple-touch-icon.png" />
     
 	<!-- 引用 Web App Manifest -->
-    <link rel="manifest" href="/manifest.json">
+    <link rel="manifest" href="/assets/favicon/manifest.json">
 	
     <!-- 引用 CSS -->
-    <link rel="stylesheet" href="/assets/styles.css">
+    <link rel="stylesheet" href="/assets/css/styles.scss">
 	
 	<!-- 支持 iOS 添加到主屏幕 -->
     <meta name="apple-mobile-web-app-title" content="信用卡優惠">
     <meta name="apple-mobile-web-app-capable" content="yes">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-    <link rel="apple-touch-icon" href="/assets/icon-192x192.png">
+
 	
 	<!-- 支持 Android 添加到主屏幕 -->
     <meta name="mobile-web-app-capable" content="yes">
     <meta name="theme-color" content="#000000">
-    <link rel="icon" sizes="192x192" href="/icons/icon-192x192.png">
+
 </head>
 <body>
 <header>
-        <h1>{{ site.title }}</h1>
-    </header>
-    <main>
-        {{ content }}
-    </main>
+
+    <div class="wrapper">
+      <header {% unless site.description or site.github.project_tagline %} class="without-description" {% endunless %}>
+        <h1>{{ site.title | default: site.github.repository_name }}</h1>
+        {% if site.description or site.github.project_tagline %}
+          <p>{{ site.description | default: site.github.project_tagline }}</p>
+        {% endif %}
+        <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ github_name }}</small></a></p>
+        <ul>
+        {% if site.show_downloads %}
+          <li><a href="{{ site.github.zip_url }}">Download <strong>ZIP File</strong></a></li>
+          <li><a href="{{ site.github.tar_url }}">Download <strong>TAR Ball</strong></a></li>
+        {% endif %}
+          <li><a href="{{ site.github.repository_url }}">View On <strong>GitHub</strong></a></li>
+        </ul>
+      </header>
+      <section>
+
+      {{ content }}
+
+      </section>
+    </div>
 
     <!-- 放大圖片顯示模態框 -->
     <div id="myModal" class="modal">
