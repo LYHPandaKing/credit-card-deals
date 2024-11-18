@@ -104,3 +104,23 @@ iframe {
         .click-to-load:hover {
             background-color: #45a049;
         }
+
+
+th, td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: left;
+        }
+
+        th {
+            background-color: #f4f4f4;
+        }
+
+        /* Zebra Stripes 樣式 */
+        tr:nth-child(even) {
+            background-color: #f9f9f9; /* 偶數行背景色 */
+        }
+
+        tr:nth-child(odd) {
+            background-color: #ffffff; /* 奇數行背景色 */
+        }
