@@ -1,0 +1,106 @@
+/* 基本樣式：淺色模式 */
+body {
+    background-color: #ffffff;
+    color: #000000;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+h1, h2, h3, h4 {
+    color: #333333;
+}
+
+/* 深色模式樣式 */
+@media (prefers-color-scheme: dark) {
+    body {
+        background-color: #1e1e1e;
+        color: #ffffff;
+    }
+
+    h1, h2, h3, h4 {
+        color: #f0f0f0;
+    }
+
+    /* 深色模式下的連結樣式 */
+    a {
+        color: #bb86fc;
+    }
+}
+
+details {
+  margin: 1em 0;
+  padding: 0.5em;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+summary {
+  font-weight: bold;
+  cursor: pointer;
+}
+
+/* iframe自適應 */
+iframe {
+  display: none;
+  width: 100%;
+  height: 60vh; /* 視窗高度 */
+  border: none;
+}
+
+/* 所有圖片的縮略圖樣式 */
+        img {
+            max-width: 100%;
+            height: auto;
+            cursor: pointer;
+            transition: 0.3s;
+        }
+
+        img:hover {
+            opacity: 0.7;
+        }
+
+        /* 放大顯示圖片的模態框 */
+        .modal {
+            display: none; /* 默認隱藏 */
+            position: fixed;
+            z-index: 1;
+            left: 0;
+            top: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(0, 0, 0, 0.7); /* 半透明黑色背景 */
+            justify-content: center;
+            align-items: center;
+        }
+
+        .modal img {
+            max-width: 90%;
+            max-height: 80%;
+            margin: auto;
+            display: block;
+        }
+
+        .close {
+            position: absolute;
+            top: 15px;
+            right: 35px;
+            color: #fff;
+            font-size: 40px;
+            font-weight: bold;
+            cursor: pointer;
+        }
+
+/* 點擊來加載iframe */
+/* 設置按鈕或圖片的樣式 */
+        .click-to-load {
+            cursor: pointer;
+            background-color: #4CAF50;
+            color: white;
+            padding: 10px 20px;
+            border: none;
+        }
+
+        .click-to-load:hover {
+            background-color: #45a049;
+        }

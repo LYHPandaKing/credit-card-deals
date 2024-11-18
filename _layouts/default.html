@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>信用卡日常消費優惠</title>
+	<!-- 引用 favicon -->
+    <link rel="icon" href="/assets/favicon.png" type="image/x-icon">
+    
+	<!-- 引用 Web App Manifest -->
+    <link rel="manifest" href="/manifest.json">
+	
+    <!-- 引用 CSS -->
+    <link rel="stylesheet" href="/assets/styles.css">
+	
+	<!-- 支持 iOS 添加到主屏幕 -->
+    <meta name="apple-mobile-web-app-title" content="信用卡優惠">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <link rel="apple-touch-icon" href="/assets/icon-192x192.png">
+	
+	<!-- 支持 Android 添加到主屏幕 -->
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="theme-color" content="#000000">
+    <link rel="icon" sizes="192x192" href="/icons/icon-192x192.png">
+</head>
+<body>
+
+    <!-- 這裡是頁面內容區域 -->
+    {{ content }}
+
+    <!-- 放大圖片顯示模態框 -->
+    <div id="myModal" class="modal">
+        <span class="close" id="closeBtn">&times;</span>
+        <img id="modalImage" src="" alt="放大圖片">
+    </div>
+	
+	<!-- 用戶點擊此按鈕加載 iframe -->
+    <button class="click-to-load" data-src="https://www.example.com">點擊加載 iFrame</button>
+
+    <!-- 全局 iframe 容器 -->
+    <iframe class="iframe-to-load" src="" id="myIframe"></iframe>
+
+	
+<script>
+        // 註冊 Service Worker
+        if ('serviceWorker' in navigator) {
+            window.addEventListener('load', () => {
+                navigator.serviceWorker.register('/service-worker.js')
+                    .then((registration) => {
+                        console.log('Service Worker 註冊成功: ', registration);
+                    })
+                    .catch((error) => {
+                        console.log('Service Worker 註冊失敗: ', error);
+                    });
+            });
+        }
+
+        document.querySelectorAll('img').forEach(img => {
+            img.onclick = function() {
+                const modal = document.getElementById('myModal');
+                const modalImage = document.getElementById('modalImage');
+                modal.style.display = 'flex';
+                modalImage.src = img.src; // 將點擊的圖片設置為模態框中的圖片
+            }
+        });
+
+        // 關閉放大圖片
+        document.getElementById('closeBtn').onclick = function() {
+            document.getElementById('myModal').style.display = 'none';
+        }
+
+        // 點擊模態框外部關閉放大圖片
+        window.onclick = function(event) {
+            if (event.target == document.getElementById('myModal')) {
+                document.getElementById('myModal').style.display = 'none';
+            }
+        }
+		
+        // 找到所有帶有 .click-to-load 類別的元素
+        document.querySelectorAll('.click-to-load').forEach(button => {
+            button.addEventListener('click', function() {
+                // 獲取此按鈕的 data-src 屬性，這是 iframe 加載的 URL
+                const iframeSrc = this.getAttribute('data-src');
+
+                // 顯示 iframe 並設置其 src 屬性以加載內容
+                const iframe = document.querySelector('.iframe-to-load');
+                iframe.style.display = 'block';
+                iframe.src = iframeSrc;  // 設置 iframe 的 src 屬性，開始加載內容
+            });
+        });
+</script>
+
+</body>
+</html>
