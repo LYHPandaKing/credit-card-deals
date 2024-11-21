@@ -25,8 +25,7 @@
 <td>n/a</td>
 </tr>
 <tr>
-<td colspan="2">馬莎百貨<br>一田<br>3hreeSixty<br>PNS網購<br>Market Place<br>HKTVmall</td>
-<td colspan="3">city'super<br>惠康<br>TASTE<br>百佳超級市場<br>FUSION<br>更多場級市場...</td>
+<td colspan="5">馬莎百貨<br>一田<br>3hreeSixty<br>PNS網購<br>Market Place<br>HKTVmall<br>city'super<br>惠康<br>TASTE<br>百佳超級市場<br>FUSION<br>更多場級市場...</td>
 </tr>
 </table>
 
@@ -59,8 +58,7 @@
 <td>30Apr25</td>
 </tr>
 <tr>
-<td colspan="3">MCC 5311 百貨公司<br>MCC 5611 男裝商店<br>MCC 5621 女裝商店<br>MCC 5631 女性飾品商店<br>MCC 5651 服裝綜合零售店<br>MCC 5655 運動服飾商店</td>
-<td colspan="2">MCC 5661 鞋店<br>MCC 5691 成人內衣店<br>MCC 5699 未列入其他代碼的服飾商店<br>MCC 5944 鐘錶珠寶及銀器店<br>MCC 5948 箱包、皮具店<br>MCC 5977 化妝品店<br>MCC 5999 未列入其他代碼的專門零售店</td>
+<td colspan="5">MCC 5311 百貨公司<br>MCC 5611 男裝商店<br>MCC 5621 女裝商店<br>MCC 5631 女性飾品商店<br>MCC 5651 服裝綜合零售店<br>MCC 5655 運動服飾商店<br>MCC 5661 鞋店<br>MCC 5691 成人內衣店<br>MCC 5699 未列入其他代碼的服飾商店<br>MCC 5944 鐘錶珠寶及銀器店<br>MCC 5948 箱包、皮具店<br>MCC 5977 化妝品店<br>MCC 5999 未列入其他代碼的專門零售店</td>
 </tr>
 
 <tr>
@@ -71,8 +69,7 @@
 <td>30Apr25</td>
 </tr>
 <tr>
-<td colspan="2">MCC 4899 有線衛星及其他付費電視廣播服務<br>MCC 5815 數字商品視聽媒體<br>MCC 5816 數字商品遊戲<br>MCC 5817 數字商品軟件應用</td>
-<td colspan="3">MCC 5818 數字商品多類別<br>MCC 7832 電影院<br>MCC 7922 舞臺演出服務及票務<br>MCC 7996 遊樂園 嘉年華 馬戲團</td>
+<td colspan="5">MCC 4899 有線衛星及其他付費電視廣播服務<br>MCC 5815 數字商品視聽媒體<br>MCC 5816 數字商品遊戲<br>MCC 5817 數字商品軟件應用<br>MCC 5818 數字商品多類別<br>MCC 7832 電影院<br>MCC 7922 舞臺演出服務及票務<br>MCC 7996 遊樂園 嘉年華 馬戲團</td>
 </tr>
 
 <tr>
@@ -250,8 +247,7 @@
 <td>31Dec24</td>
 </tr>
 <tr>
-<td colspan="3">生活用品:759阿信屋、香港百佳、OK便利店、HKTVmall、日本城<br><br>護膚保健︰香港莎莎、屈臣氏<br><br>數碼生活︰中國移動香港及s/ash<br><br>餐飲︰戶戶送、Häagen-Dazs™、麥當勞®及麥當勞App</td>
-<td colspan="2">運動消閒︰DECATHLON、Klook、快達票 HK Ticketing<br><br>網上影視串流平台：Amazon Prime Video、Disney+ 、Netflix、 Now TV<br><br>網上音樂串流平台：JOOX 、KKBOX 、MOOV 、Spotify</td>
+<td colspan="5">生活用品:759阿信屋、香港百佳、OK便利店、HKTVmall、日本城<br><br>護膚保健︰香港莎莎、屈臣氏<br><br>數碼生活︰中國移動香港及s/ash<br><br>餐飲︰戶戶送、Häagen-Dazs™、麥當勞®及麥當勞App<br><br>運動消閒︰DECATHLON、Klook、快達票 HK Ticketing<br><br>網上影視串流平台：Amazon Prime Video、Disney+ 、Netflix、 Now TV<br><br>網上音樂串流平台：JOOX 、KKBOX 、MOOV 、Spotify</td>
 </tr>
 </table>
 
