@@ -59,8 +59,8 @@
 <td>30Apr25</td>
 </tr>
 <tr>
-<td colspan="2">MCC 5311 百貨公司<br>MCC 5611 男裝商店<br>MCC 5621 女裝商店<br>MCC 5631 女性飾品商店<br>MCC 5651 服裝綜合零售店<br>MCC 5655 運動服飾商店</td>
-<td colspan="3">MCC 5661 鞋店<br>MCC 5691 成人內衣店<br>MCC 5699 未列入其他代碼的服飾商店<br>MCC 5944 鐘錶珠寶及銀器店<br>MCC 5948 箱包、皮具店<br>MCC 5977 化妝品店<br>MCC 5999 未列入其他代碼的專門零售店</td>
+<td colspan="3">MCC 5311 百貨公司<br>MCC 5611 男裝商店<br>MCC 5621 女裝商店<br>MCC 5631 女性飾品商店<br>MCC 5651 服裝綜合零售店<br>MCC 5655 運動服飾商店</td>
+<td colspan="2">MCC 5661 鞋店<br>MCC 5691 成人內衣店<br>MCC 5699 未列入其他代碼的服飾商店<br>MCC 5944 鐘錶珠寶及銀器店<br>MCC 5948 箱包、皮具店<br>MCC 5977 化妝品店<br>MCC 5999 未列入其他代碼的專門零售店</td>
 </tr>
 
 <tr>
@@ -131,8 +131,13 @@
 	1. <a target="_blank" rel="noopener noreferrer" href="https://www.redhotoffers.hsbc.com.hk/tc/rewards/red-hot-rewards-of-your-choice/details">https://www.redhotoffers.hsbc.com.hk/tc/rewards/red-hot-rewards-of-your-choice/details</a><br>
 
 	<img src="img/tnc/hsbc/241118_hsbc_redoffer.png" width="80%"><br>
-	<img src="img/tnc/hsbc/241118_hsbc_redoffer_cat.png" width="80%"><br>
-	<img src="img/tnc/hsbc/241118_hsbc_redoffer_cat_2.png" width="80%"><br>
+	<img src="img/tnc/hsbc/241121_hsbc_redoffer_dining.png" width="80%"><br>
+	<img src="img/tnc/hsbc/241121_hsbc_redoffer_health-leisure.png" width="80%"><br>
+	<img src="img/tnc/hsbc/241121_hsbc_redoffer_home.png" width="80%"><br>
+	<img src="img/tnc/hsbc/241121_hsbc_redoffer_lifestyle.png" width="80%"><br>
+	<img src="img/tnc/hsbc/241121_hsbc_redoffer_oversea.png" width="80%"><br>
+	<img src="img/tnc/hsbc/241121_hsbc_redoffer_tnc.png" width="80%"><br>
+	<img src="img/tnc/hsbc/241121_hsbc_redoffer_tnc_2.png" width="80%"><br>
 </details>
 <hr>
 
@@ -204,6 +209,9 @@
     2. <a target="_blank" rel="noopener noreferrer" href="https://www.aeon.com.hk/tc/pdf/credit-card/AEONCARDWAKUWAKU_RBBD_TC.pdf">https://www.aeon.com.hk/tc/pdf/credit-card/AEONCARDWAKUWAKU_RBBD_TC.pdf</a><br>
 	
 	<img src="img/tnc/aeon/241118_aeon_basic.png" width="80%"><br>
+	<img src="img/tnc/aeon/241121_aeon_basic_tnc.png" width="80%"><br>
+	<img src="img/tnc/aeon/241121_aeon_basic_tnc_2.png" width="80%"><br>
+	<img src="img/tnc/aeon/241121_aeon_basic_tnc_3.png" width="80%"><br>
 	
 	「賞」食<br>
 	3. <a target="_blank" rel="noopener noreferrer" href="https://www.aeon.com.hk/tc/privilege/promotion_fnb_0324.html">https://www.aeon.com.hk/tc/privilege/promotion_fnb_0324.html</a><br>
