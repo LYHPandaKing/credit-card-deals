@@ -45,7 +45,20 @@
 </tr>
 
 <tr>
-<td colspan="5">實測<br>包括：<br>1 Don Don Donki<br><br>不包括：<br>1 GreenPrice 綠惜超級市場</td>
+<td colspan="5">實測包括：
+ <ol>
+  <li>Don Don Donki</li>
+ </ol>
+ 不包括：
+ <ol>
+  <li>GreenPrice</li>
+  <li>萬寧</li>
+  <li>屈臣氏</li>
+  <li>日本城</li>
+  <li>759阿信屋</li>
+  <li>優品360</li> 
+ </ol>
+</td>
 </tr>
 </table>
 
