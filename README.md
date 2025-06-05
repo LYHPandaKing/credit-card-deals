@@ -5,7 +5,7 @@
 <a href="#aeon">Aeon Wakuwaku</a><br>
 <a href="#sc">SC Smart</a><br>
 <a href="#boc">BoC GBA Youth</a><br>
-<a href="#exc">即時匯率</a><br>
+<a href="#exc">查看即時匯率</a><br>
 <br><br>
 
 <a name="mox"></a>
@@ -375,7 +375,9 @@
 <hr>
 
 <a name="exc"></a>
-##### 即時匯率
-	<a target="_blank" rel="noopener noreferrer" href="https://www.mastercard.us/en-us/personal/get-support/convert-currency.html">Mastercard</a><br>
-	<a target="_blank" rel="noopener noreferrer" href="https://www.visa.com.hk/zh_HK/support/consumer/travel-support/exchange-rate-calculator.html">Visa</a><br>
-	<a target="_blank" rel="noopener noreferrer" href="https://m.unionpayintl.com/hk/rate/">UnionPay</a><br>
+##### 查看即時匯率
+<ul>
+  <li><a target="_blank" rel="noopener noreferrer" href="https://www.mastercard.us/en-us/personal/get-support/convert-currency.html">Mastercard</a></li>
+  <li><a target="_blank" rel="noopener noreferrer" href="https://www.visa.com.hk/zh_HK/support/consumer/travel-support/exchange-rate-calculator.html">Visa</a></li>
+  <li><a target="_blank" rel="noopener noreferrer" href="https://m.unionpayintl.com/hk/rate/">UnionPay</a></li>
+</ul>
