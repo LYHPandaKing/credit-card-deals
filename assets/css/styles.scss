@@ -142,4 +142,5 @@ a {
   overflow-wrap: break-word;  /* 標準屬性 */
   word-wrap: break-word;      /* 舊版本支援 */
   word-break: break-word;     /* 某些情況下輔助 */
+  white-space: normal;        /* 確保不是 nowrap */
 } 

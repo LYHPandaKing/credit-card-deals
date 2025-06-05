@@ -376,6 +376,7 @@
 
 <a name="exc"></a>
 ##### 查看即時匯率
+
 <ul>
   <li><a target="_blank" rel="noopener noreferrer" href="https://www.mastercard.us/en-us/personal/get-support/convert-currency.html">Mastercard</a></li>
   <li><a target="_blank" rel="noopener noreferrer" href="https://www.visa.com.hk/zh_HK/support/consumer/travel-support/exchange-rate-calculator.html">Visa</a></li>
