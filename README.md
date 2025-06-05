@@ -82,7 +82,7 @@
 <tr>
 <td>服飾百貨</td>
 <td>8.1X (3%)</td>
-<td bgcolor="lightgreen"><font color="black">每月最高額外113,400分▲ (消費$15,971)</font></td>
+<td bgcolor="lightgreen">每月最高額外113,400分▲ (消費$15,971)</td>
 <td>不限</td>
 <td>31Oct25</td>
 </tr>
@@ -93,7 +93,7 @@
 <tr>
 <td>娛樂（戲院樂園門飛）</td>
 <td>8.1X (3%)</td>
-<td bgcolor="lightgreen"><font color="black">每月最高額外113,400分▲ (消費$15,971)</font></td>
+<td bgcolor="lightgreen">每月最高額外113,400分▲ (消費$15,971)</td>
 <td>不限</td>
 <td>31Oct25</td>
 </tr>
@@ -104,7 +104,7 @@
 <tr>
 <td>本地其他</td>
 <td>2.7X (1%)</td>
-<td bgcolor="lightgreen"><font color="black">每月最高額外113,400分▲ (消費$66,750)</font></td>
+<td bgcolor="lightgreen">每月最高額外113,400分▲ (消費$66,750)</td>
 <td>Apple Pay</td>
 <td>31Oct25</td>
 </tr>
@@ -205,7 +205,7 @@
 <tr>
 <td>網上</td>
 <td>6% (.4% + 5.6%)</td>
-<td bgcolor="lightgreen"><font color="black">每月合計最高$200▲ (消費$3,571)</font></td>
+<td bgcolor="lightgreen">每月合計最高$200▲ (消費$3,571)</td>
 <td>不限</td>
 <td>28Feb26</td>
 </tr>
@@ -216,7 +216,7 @@
 <tr>
 <td>日本</td>
 <td>3% (.4% + 2.6%)</td>
-<td bgcolor="lightgreen"><font color="black">每月合計最高$200▲ (消費$7,692)</font></td>
+<td bgcolor="lightgreen">每月合計最高$200▲ (消費$7,692)</td>
 <td>不限</td>
 <td>28Feb26</td>
 </tr>
@@ -286,14 +286,31 @@
 </tr>
 <tr>
 <td>5% (4.44% + .56%)</td>
-<td bgcolor="lightgreen"><font color="black">每月結消費：<br>$4,000-14,999<br>4.44% 最高$5,000▲</font></td>
+<td bgcolor="lightgreen">每月結消費：<br>$4,000-14,999<br>4.44% 最高$5,000▲</td>
 </tr>
 <tr>
 <td>5% (3.8% + 1.2%)</td>
-<td bgcolor="lightgreen"><font color="black">每月結消費：<br>$15,000或以上<br>3.8% 最高$5,000▲</font></td>
+<td bgcolor="lightgreen">每月結消費：<br>$15,000或以上<br>3.8% 最高$5,000▲</td>
 </tr>
 <tr>
-<td colspan="5"><ul><li>759阿信屋</li><li>中國移動香港及s/ash.</li><li>OK便利店</li><li>DECATHLON</li><li>HKTVmall</li><li>HK Ticketing 快達票</li><li>日本城零售店和網上商店</li><li>Klook</li><li>香港麥當勞</li><li>Sasa 莎莎香港</li><li>香港百佳指定店舖包括︰百佳超級市場、TASTE、FUSION、INTERNATIONAL、food le parc、GOURMET、GREAT FOOD HALL、便利佳、百佳冷凍食品及百佳網店</li><li>屈臣氏零售店和網上商店</li><li>網上影視串流平台：Amazon Prime Video、Disney+ 、Netflix、 Now TV</li><li>網上音樂串流平台：JOOX 、KKBOX 、MOOV 、Spotify</li></ul></td>
+<td colspan="5">
+  <ul>
+    <li>759阿信屋</li>
+    <li>中國移動香港及s/ash.</li>
+    <li>OK便利店</li>
+    <li>DECATHLON</li>
+    <li>HKTVmall</li>
+    <li>HK Ticketing 快達票</li>
+    <li>日本城零售店和網上商店</li>
+    <li>Klook</li>
+    <li>香港麥當勞</li>
+    <li>Sasa 莎莎香港</li>
+    <li>香港百佳指定店舖包括︰百佳超級市場、TASTE、FUSION、INTERNATIONAL、food le parc、GOURMET、GREAT FOOD HALL、便利佳、百佳冷凍食品及百佳網店</li>
+    <li>屈臣氏零售店和網上商店</li>
+    <li>網上影視串流平台：Amazon Prime Video、Disney+ 、Netflix、 Now TV</li>
+    <li>網上音樂串流平台：JOOX 、KKBOX 、MOOV 、Spotify</li>
+  </ul>
+ </td>
 </tr>
 
 <tr>

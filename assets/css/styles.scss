@@ -118,6 +118,19 @@ iframe {
             background-color: #45a049;
         }
 
+td ul {
+  max-width: 100%;
+  overflow-wrap: break-word;
+  word-break: break-word;
+  line-height: 1.6;
+  padding-left: 1.5em;
+  margin: 0;
+}
+
+td {
+  overflow-x: auto;
+  display: block; /* 讓其能自然展開 */
+}
 
 th, td {
             border: 1px solid #ddd;
