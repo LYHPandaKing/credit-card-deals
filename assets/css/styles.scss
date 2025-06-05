@@ -137,3 +137,9 @@ th, td {
         tr:nth-child(odd) {
             background-color: #ffffff; /* 奇數行背景色 */
         }
+        
+a {
+  overflow-wrap: break-word;  /* 標準屬性 */
+  word-wrap: break-word;      /* 舊版本支援 */
+  word-break: break-word;     /* 某些情況下輔助 */
+} 

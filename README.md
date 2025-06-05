@@ -4,8 +4,8 @@
 <a href="#hsbc">HSBC Visa Gold</a><br>
 <a href="#aeon">Aeon Wakuwaku</a><br>
 <a href="#sc">SC Smart</a><br>
-<a href=”#boc“>BoC GBA Youth</a><br>
-<a href=”#exc“>即時匯率</a><br>
+<a href="#boc">BoC GBA Youth</a><br>
+<a href="#exc">即時匯率</a><br>
 <br><br>
 
 <a name="mox"></a>
@@ -308,6 +308,7 @@
 	3. <a target="_blank" rel="noopener noreferrer" href="https://av.sc.com/hk/zh/content/docs/hk-promo-smart-tnc.pdf">https://av.sc.com/hk/zh/content/docs/hk-promo-smart-tnc.pdf</a><br>
 	<img src="img/tnc/sc/250605_sc_5percent_tnc.jpeg" width="80%"><br>
 </details>
+<hr>
 
 <a name="boc"></a>
 ##### BoC GBA Youth
@@ -316,7 +317,7 @@
 <table>
 <tr>
 <th colspan="3">任何商戶外幣交易（FCC)</th>
-<td colspan="2">1% (人民幣交易除外）</td>
+<td colspan="2">1%<br>(人民幣交易除外）</td>
 </tr>
 <tr>
 <th colspan="3">海外商戶港幣交易（CBF)</th>
@@ -358,7 +359,7 @@
 <td>31Dec25</td>
 </tr>
 <tr>
-<td colspan="5">每RMB¥1簽賬將當作HK$1計算。<br><br><span style="color: #000000; background-color: #FBFFC6">不包括</span></b>所有網上簽賬、透過AlipayHK及WeChat Pay HK所作之簽賬、網上支付系統繳費予指定商戶(包括但不限於PayPal或支付寶)、透過流動裝置/應用程序/電子轉賬平台進行個人對個人(P2P)的現金轉賬。</td>
+<td colspan="5">每RMB¥1簽賬將當作HK$1計算。<br><br><b><span style="color: #000000; background-color: #FBFFC6">不包括</span></b>所有網上簽賬、透過AlipayHK及WeChat Pay HK所作之簽賬、網上支付系統繳費予指定商戶(包括但不限於PayPal或支付寶)、透過流動裝置/應用程序/電子轉賬平台進行個人對個人(P2P)的現金轉賬。</td>
 </tr>
 </table>
 
@@ -371,10 +372,10 @@
 	5. 迎新 <a target="_blank" rel="noopener noreferrer" href="https://www.bochk.com/dam/boccreditcard/cbc_pdf/gba_welcome_tnc.pdf">https://www.bochk.com/dam/boccreditcard/cbc_pdf/gba_welcome_tnc.pdf</a><br> 
 	<img src="img/tnc/boc/250605_boc_tnc.jpeg" width="80%"><br>
 </details>
+<hr>
 
 <a name="exc"></a>
 ##### 即時匯率
-
-	1. <a target="_blank" rel="noopener noreferrer" href="https://www.mastercard.us/en-us/personal/get-support/convert-currency.html">Mastercard</a><br>
-	2. <a target="_blank" rel="noopener noreferrer" href="https://www.visa.com.hk/zh_HK/support/consumer/travel-support/exchange-rate-calculator.html">Visa</a><br>
-	3. <a target="_blank" rel="noopener noreferrer" href="https://m.unionpayintl.com/hk/rate/">UnionPay</a><br>
+	<a target="_blank" rel="noopener noreferrer" href="https://www.mastercard.us/en-us/personal/get-support/convert-currency.html">Mastercard</a><br>
+	<a target="_blank" rel="noopener noreferrer" href="https://www.visa.com.hk/zh_HK/support/consumer/travel-support/exchange-rate-calculator.html">Visa</a><br>
+	<a target="_blank" rel="noopener noreferrer" href="https://m.unionpayintl.com/hk/rate/">UnionPay</a><br>
