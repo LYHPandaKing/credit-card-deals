@@ -294,7 +294,7 @@
 </tr>
 <tr>
 <td colspan="5">
-  <ul>
+  <ol>
     <li>759阿信屋</li>
     <li>中國移動香港及s/ash.</li>
     <li>OK便利店</li>
@@ -309,7 +309,7 @@
     <li>屈臣氏零售店和網上商店</li>
     <li>網上影視串流平台：Amazon Prime Video、Disney+ 、Netflix、 Now TV</li>
     <li>網上音樂串流平台：JOOX 、KKBOX 、MOOV 、Spotify</li>
-  </ul>
+  </ol>
  </td>
 </tr>
 
@@ -386,7 +386,8 @@
   	2. <a target="_blank" rel="noopener noreferrer" href="https://www.bochk.com/creditcard/bocci/agt/key_facts_statement_chi.pdf">https://www.bochk.com/creditcard/bocci/agt/key_facts_statement_chi.pdf</a><br>
 	3. <a target="_blank" rel="noopener noreferrer" href="https://www.bochk.com/dam/boccreditcard/cbc_pdf/gba_product_tnc_tc.pdf">https://www.bochk.com/dam/boccreditcard/cbc_pdf/gba_product_tnc_tc.pdf</a><br>
 	4. <a target="_blank" rel="noopener noreferrer" href="https://m.unionpayintl.com/hk/servicesProducts/serviceEquity/Great_Bay_Area_Transit/">https://m.unionpayintl.com/hk/servicesProducts/serviceEquity/Great_Bay_Area_Transit/</a><br>
-	5. 迎新 <a target="_blank" rel="noopener noreferrer" href="https://www.bochk.com/dam/boccreditcard/cbc_pdf/gba_welcome_tnc.pdf">https://www.bochk.com/dam/boccreditcard/cbc_pdf/gba_welcome_tnc.pdf</a><br> 
+	5. <a target="_blank" rel="noopener noreferrer" href="https://docs.google.com/spreadsheets/d/1z799lhfggPRTZfQDEu9uO97qS6EVv2_Xr6Rp1xIvOS8/htmlview">https://docs.google.com/spreadsheets/d/1z799lhfggPRTZfQDEu9uO97qS6EVv2_Xr6Rp1xIvOS8/htmlview</a><br> 
+	6. 迎新 <a target="_blank" rel="noopener noreferrer" href="https://www.bochk.com/dam/boccreditcard/cbc_pdf/gba_welcome_tnc.pdf">https://www.bochk.com/dam/boccreditcard/cbc_pdf/gba_welcome_tnc.pdf</a><br> 
 	<img src="img/tnc/boc/250605_boc_tnc.jpeg" width="80%"><br>
 </details>
 <hr>
@@ -394,8 +395,8 @@
 <a name="exc"></a>
 ##### 查看即時匯率
 
-<ul>
+<ol>
   <li><a target="_blank" rel="noopener noreferrer" href="https://www.mastercard.us/en-us/personal/get-support/convert-currency.html">Mastercard</a></li>
   <li><a target="_blank" rel="noopener noreferrer" href="https://www.visa.com.hk/zh_HK/support/consumer/travel-support/exchange-rate-calculator.html">Visa</a></li>
   <li><a target="_blank" rel="noopener noreferrer" href="https://m.unionpayintl.com/hk/rate/">UnionPay</a></li>
-</ul>
+</ol>
