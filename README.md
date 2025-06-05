@@ -1,8 +1,8 @@
 #### 目錄
 <a href="#mox">Mox Credit</a><br>
 <a href="#citi">Citi Rewards</a><br>
-<a href="#hsbc">HSBC Visa Gold</a><br>
 <a href="#aeon">Aeon Wakuwaku</a><br>
+<a href="#hsbc">HSBC Visa Gold</a><br>
 <a href="#sc">SC Smart</a><br>
 <a href="#boc">BoC GBA Youth</a><br>
 <a href="#exc">查看即時匯率</a><br>
@@ -139,57 +139,6 @@
 </details>
 <hr>
 
-<a name="hsbc"></a>
-##### HSBC Visa Gold
-<img src="img/cards/hsbc-visa-gold.png" width="80%">
-
-<table>
-<tr>
-<th colspan="3">任何商戶外幣交易（FCC)</th>
-<td colspan="2">1% VS + .95% Bank</td>
-</tr>
-<tr>
-<th colspan="3">海外商戶港幣交易（CBF)</th>
-<td colspan="2">1% VS</td>
-</tr>
-</table>
-<br>
-
-<table>
-<tr>
-<th>消費類別</th>
-<th>回贈</th>
-<th>限制</th>
-<th>方式</th>
-<th>結束日</th>
-</tr>
-<tr>
-<td>賞滋味</td>
-<td>6X (2.4%)</td>
-<td>每$250計算</td>
-<td>不限</td>
-<td>31Dec25</td>
-</tr>
-<tr>
-<td colspan="5">餐廳或食肆的香港簽賬<br><b><span style="color: #000000; background-color: #FBFFC6">不包括</span></b>於酒席宴會、私人宴會、包場派對、設於酒店／百貨公司／俱樂部／會所內的飲食專櫃／商戶及其他簽賬類別的指定商戶所提供的餐飲服務的簽賬。</td>
-</tr>
-</table>
-
-<details>
-  <summary>詳細T&C</summary>
-	1. <a target="_blank" rel="noopener noreferrer" href="https://www.redhotoffers.hsbc.com.hk/tc/rewards/red-hot-rewards-of-your-choice/details">https://www.redhotoffers.hsbc.com.hk/tc/rewards/red-hot-rewards-of-your-choice/details</a><br>
-	2. <a target="_blank" rel="noopener noreferrer" href="https://www.redhotoffers.hsbc.com.hk/media/74309856/TC_TC_2025-RYC.pdf">https://www.redhotoffers.hsbc.com.hk/media/74309856/TC_TC_2025-RYC.pdf</a><br>
-	3. <a target="_blank" rel="noopener noreferrer" href="https://www.hsbc.com.hk/zh-hk/credit-cards/products/visa-gold/">https://www.hsbc.com.hk/zh-hk/credit-cards/products/visa-gold/</a><br>
-	4. <a target="_blank" rel="noopener noreferrer" href="https://www.hsbc.com.hk/content/dam/hsbc/hk/docs/credit-cards/key-fact-statement.pdf">https://www.hsbc.com.hk/content/dam/hsbc/hk/docs/credit-cards/key-fact-statement.pdf</a><br>
-	<img src="img/tnc/hsbc/241121_hsbc_redoffer_dining.png" width="80%"><br>
-	<img src="img/tnc/hsbc/250604_hsbc_redoffer_lifestyle.jpeg" width="80%"><br>
-	<img src="img/tnc/hsbc/250604_hsbc_redoffer_home.jpeg" width="80%"><br>
-	<img src="img/tnc/hsbc/250604_hsbc_redoffer_shopping.jpeg" width="80%"><br>
-	<img src="img/tnc/hsbc/241121_hsbc_redoffer_oversea.png" width="80%"><br>
-	<img src="img/tnc/hsbc/250604_hsbc_redoffer_tnc.jpeg" width="80%"><br>
-</details>
-<hr>
-
 <a name="aeon"></a>
 ##### Aeon Wakuwaku
 <img src="img/cards/aeon-waku.png" width="80%">
@@ -263,6 +212,57 @@
     2. <a target="_blank" rel="noopener noreferrer" href="https://www.aeon.com.hk/tc/pdf/credit-card/AEONCARDWAKUWAKU_RBBD_TC.pdf">https://www.aeon.com.hk/tc/pdf/credit-card/AEONCARDWAKUWAKU_RBBD_TC.pdf</a><br>
     3. <a target="_blank" rel="noopener noreferrer" href="https://www.aeon.com.hk/tc/useful-info/fee-schedule.html">https://www.aeon.com.hk/tc/useful-info/fee-schedule.html</a><br>
 	<img src="img/tnc/aeon/250604_aeon_tnc.jpeg" width="80%"><br>
+</details>
+<hr>
+
+<a name="hsbc"></a>
+##### HSBC Visa Gold
+<img src="img/cards/hsbc-visa-gold.png" width="80%">
+
+<table>
+<tr>
+<th colspan="3">任何商戶外幣交易（FCC)</th>
+<td colspan="2">1% VS + .95% Bank</td>
+</tr>
+<tr>
+<th colspan="3">海外商戶港幣交易（CBF)</th>
+<td colspan="2">1% VS</td>
+</tr>
+</table>
+<br>
+
+<table>
+<tr>
+<th>消費類別</th>
+<th>回贈</th>
+<th>限制</th>
+<th>方式</th>
+<th>結束日</th>
+</tr>
+<tr>
+<td>賞滋味</td>
+<td>6X (2.4%)</td>
+<td>每$250計算</td>
+<td>不限</td>
+<td>31Dec25</td>
+</tr>
+<tr>
+<td colspan="5">餐廳或食肆的香港簽賬<br><b><span style="color: #000000; background-color: #FBFFC6">不包括</span></b>於酒席宴會、私人宴會、包場派對、設於酒店／百貨公司／俱樂部／會所內的飲食專櫃／商戶及其他簽賬類別的指定商戶所提供的餐飲服務的簽賬。</td>
+</tr>
+</table>
+
+<details>
+  <summary>詳細T&C</summary>
+	1. <a target="_blank" rel="noopener noreferrer" href="https://www.redhotoffers.hsbc.com.hk/tc/rewards/red-hot-rewards-of-your-choice/details">https://www.redhotoffers.hsbc.com.hk/tc/rewards/red-hot-rewards-of-your-choice/details</a><br>
+	2. <a target="_blank" rel="noopener noreferrer" href="https://www.redhotoffers.hsbc.com.hk/media/74309856/TC_TC_2025-RYC.pdf">https://www.redhotoffers.hsbc.com.hk/media/74309856/TC_TC_2025-RYC.pdf</a><br>
+	3. <a target="_blank" rel="noopener noreferrer" href="https://www.hsbc.com.hk/zh-hk/credit-cards/products/visa-gold/">https://www.hsbc.com.hk/zh-hk/credit-cards/products/visa-gold/</a><br>
+	4. <a target="_blank" rel="noopener noreferrer" href="https://www.hsbc.com.hk/content/dam/hsbc/hk/docs/credit-cards/key-fact-statement.pdf">https://www.hsbc.com.hk/content/dam/hsbc/hk/docs/credit-cards/key-fact-statement.pdf</a><br>
+	<img src="img/tnc/hsbc/241121_hsbc_redoffer_dining.png" width="80%"><br>
+	<img src="img/tnc/hsbc/250604_hsbc_redoffer_lifestyle.jpeg" width="80%"><br>
+	<img src="img/tnc/hsbc/250604_hsbc_redoffer_home.jpeg" width="80%"><br>
+	<img src="img/tnc/hsbc/250604_hsbc_redoffer_shopping.jpeg" width="80%"><br>
+	<img src="img/tnc/hsbc/241121_hsbc_redoffer_oversea.png" width="80%"><br>
+	<img src="img/tnc/hsbc/250604_hsbc_redoffer_tnc.jpeg" width="80%"><br>
 </details>
 <hr>
 
