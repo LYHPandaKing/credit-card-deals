@@ -349,7 +349,7 @@
 ##### BoC GBA Youth
 <img src="img/cards/boc-gba.png" width="80%">
 
-<h5>中港澳5%百搭</h5>
+<h5>中港澳5%百搭、大陸電子錢包</h5>
 <table>
 <tr>
 <th colspan="3">任何商戶外幣交易（FCC)</th>
