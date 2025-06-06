@@ -12,6 +12,7 @@
 ##### Mox Credit
 <img src="img/cards/mox.png" width="80%">
 
+<h5>日常補底</h5>
 <table>
 <tr>
 <th colspan="3">任何商戶外幣交易（FCC)</th>
@@ -76,6 +77,7 @@
 ##### Citi Rewards
 <img src="img/cards/citi-rewards.png" width="80%">
 
+<h5>3%百貨服飾、日常補底</h5>
 <table>
 <tr>
 <th colspan="3">外幣交易</th>
@@ -143,6 +145,7 @@
 ##### Aeon Wakuwaku
 <img src="img/cards/aeon-waku.png" width="80%">
 
+<h5>網購、日本現地、Aeon</h5>
 <table>
 <tr>
 <th colspan="3">任何商戶外幣交易（FCC)</th>
@@ -219,6 +222,7 @@
 ##### HSBC Visa Gold
 <img src="img/cards/hsbc-visa-gold.png" width="80%">
 
+<h5>食肆</h5>
 <table>
 <tr>
 <th colspan="3">任何商戶外幣交易（FCC)</th>
@@ -270,6 +274,7 @@
 ##### SC Smart
 <img src="img/cards/sc-smart.png" width="80%">
 
+<h5>大額、旅遊</h5>
 <table>
 <tr>
 <th colspan="3">任何商戶外幣交易（FCC)</th>
@@ -344,6 +349,7 @@
 ##### BoC GBA Youth
 <img src="img/cards/boc-gba.png" width="80%">
 
+<h5>中港澳5%百搭</h5>
 <table>
 <tr>
 <th colspan="3">任何商戶外幣交易（FCC)</th>
