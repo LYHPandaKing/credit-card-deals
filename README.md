@@ -49,6 +49,7 @@
 <td colspan="5">實測包括：
  <ol>
   <li>Don Don Donki</li>
+  <li>Aeon</li>
  </ol>
  不包括：
  <ol>
